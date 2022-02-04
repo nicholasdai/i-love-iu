@@ -5,7 +5,7 @@ public class maintest {
     
     @Test
     public void heeheeheehaw(){
-        assertEquals(2,main.heeheeheehaw(1,1));
+        assertEquals(1,main.heeheeheehaw(1,1));
     }
 
 }
